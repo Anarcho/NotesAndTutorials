@@ -1,0 +1,13 @@
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\bin\Debug\TranspilerTestApp.exe.config
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\bin\Debug\TranspilerTestApp.exe
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\bin\Debug\TranspilerTestApp.pdb
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\bin\Debug\0Harmony.dll
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\bin\Debug\0Harmony.xml
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\obj\Debug\TranspilerTestApp.csproj.AssemblyReference.cache
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\obj\Debug\TranspilerTestApp.csproj.SuggestedBindingRedirects.cache
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\obj\Debug\TranspilerTestApp.csproj.CoreCompileInputs.cache
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\obj\Debug\TranspilerTestApp.csproj.CopyComplete
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\obj\Debug\TranspilerTestApp.exe
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\obj\Debug\TranspilerTestApp.pdb
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\bin\Debug\HarmonyTranspilerLib.dll
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\TranspilerTestApp\bin\Debug\HarmonyTranspilerLib.pdb

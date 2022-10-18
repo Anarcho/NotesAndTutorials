@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranspilerTestApp", "TranspilerTestApp.csproj", "{9C3FFC17-74B3-4D22-9E96-01E47B4A7618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarmonyTranspilerLib", "..\HarmonyTranspilerLib\HarmonyTranspilerLib.csproj", "{C6E8895B-0194-4420-8006-F205A25A4325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3FFC17-74B3-4D22-9E96-01E47B4A7618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3FFC17-74B3-4D22-9E96-01E47B4A7618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3FFC17-74B3-4D22-9E96-01E47B4A7618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3FFC17-74B3-4D22-9E96-01E47B4A7618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E8895B-0194-4420-8006-F205A25A4325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E8895B-0194-4420-8006-F205A25A4325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E8895B-0194-4420-8006-F205A25A4325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E8895B-0194-4420-8006-F205A25A4325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {261DEB84-1E71-49DF-897F-80FCF4A63B2F}
+	EndGlobalSection
+EndGlobal

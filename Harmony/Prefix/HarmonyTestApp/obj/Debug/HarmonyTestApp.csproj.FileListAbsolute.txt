@@ -1,0 +1,13 @@
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\bin\Debug\HarmonyTestApp.exe.config
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\bin\Debug\HarmonyTestApp.exe
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\bin\Debug\HarmonyTestApp.pdb
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\bin\Debug\HarmonyTestLib.dll
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\bin\Debug\HarmonyTestLib.pdb
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\obj\Debug\HarmonyTestApp.csproj.AssemblyReference.cache
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\obj\Debug\HarmonyTestApp.csproj.SuggestedBindingRedirects.cache
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\obj\Debug\HarmonyTestApp.csproj.CoreCompileInputs.cache
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\obj\Debug\HarmonyTestApp.csproj.CopyComplete
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\obj\Debug\HarmonyTestApp.exe
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\obj\Debug\HarmonyTestApp.pdb
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\bin\Debug\0Harmony.dll
+C:\03-Projects\Mods\Tutorials\Harmony\HarmonyTestApp\bin\Debug\0Harmony.xml

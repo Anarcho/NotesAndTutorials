@@ -1,0 +1,6 @@
+C:\03-Projects\Mods\Tutorials\LambdaClass\bin\Debug\LambdaClass.dll
+C:\03-Projects\Mods\Tutorials\LambdaClass\bin\Debug\LambdaClass.pdb
+C:\03-Projects\Mods\Tutorials\LambdaClass\obj\Debug\LambdaClass.csproj.AssemblyReference.cache
+C:\03-Projects\Mods\Tutorials\LambdaClass\obj\Debug\LambdaClass.csproj.CoreCompileInputs.cache
+C:\03-Projects\Mods\Tutorials\LambdaClass\obj\Debug\LambdaClass.dll
+C:\03-Projects\Mods\Tutorials\LambdaClass\obj\Debug\LambdaClass.pdb

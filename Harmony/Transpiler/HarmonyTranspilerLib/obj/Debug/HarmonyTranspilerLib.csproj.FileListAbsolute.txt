@@ -1,0 +1,6 @@
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\HarmonyTranspilerLib\bin\Debug\HarmonyTranspilerLib.dll
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\HarmonyTranspilerLib\bin\Debug\HarmonyTranspilerLib.pdb
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\HarmonyTranspilerLib\obj\Debug\HarmonyTranspilerLib.csproj.AssemblyReference.cache
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\HarmonyTranspilerLib\obj\Debug\HarmonyTranspilerLib.csproj.CoreCompileInputs.cache
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\HarmonyTranspilerLib\obj\Debug\HarmonyTranspilerLib.dll
+C:\03-Projects\Mods\Tutorials\Harmony\Transpiler\HarmonyTranspilerLib\obj\Debug\HarmonyTranspilerLib.pdb

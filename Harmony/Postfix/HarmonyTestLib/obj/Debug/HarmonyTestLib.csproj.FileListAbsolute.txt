@@ -1,0 +1,6 @@
+C:\03-Projects\Mods\Tutorials\Harmony\Postfix\HarmonyTestLib\bin\Debug\HarmonyTestLib.dll
+C:\03-Projects\Mods\Tutorials\Harmony\Postfix\HarmonyTestLib\bin\Debug\HarmonyTestLib.pdb
+C:\03-Projects\Mods\Tutorials\Harmony\Postfix\HarmonyTestLib\obj\Debug\HarmonyTestLib.csproj.AssemblyReference.cache
+C:\03-Projects\Mods\Tutorials\Harmony\Postfix\HarmonyTestLib\obj\Debug\HarmonyTestLib.csproj.CoreCompileInputs.cache
+C:\03-Projects\Mods\Tutorials\Harmony\Postfix\HarmonyTestLib\obj\Debug\HarmonyTestLib.dll
+C:\03-Projects\Mods\Tutorials\Harmony\Postfix\HarmonyTestLib\obj\Debug\HarmonyTestLib.pdb
